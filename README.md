@@ -15,4 +15,8 @@ The intended user is ideally thought to be a young millenial who knows their way
 
 Although using Venmo might feel new and innovative, the fact is that the company still relies on extisting payment infrastructure that is largely outdated, such as bank-to-bank transfers. Despite this fact, the company has amassed many loyal users and will only benefit as banks update their software to the 21st century and technologies such as blockchain and cryptocurrency could be implemented.
 
+#### Landscape
 
+Venmo is a large player in the domain of mobile peer-to-peer payments as a subsidiary of Braintree and now PayPal, competing against the likes of CashApp, Zelle, Apple Pay, and Google Wallet.
+
+Venmo has been at the forefront of this domain due to its immense user base and the volume of transactions that are processed daily from these users. In the realm of mobile P2P payment apps, Venmo has set the bar high and set the trend of combining the social media format to its payment system. As mentioned above, the capability to apply newer FinTech methods to the business model will allow Venmo to take its service to the next level and set the trend in the next 5-10 years.
