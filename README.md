@@ -20,3 +20,9 @@ Although using Venmo might feel new and innovative, the fact is that the company
 Venmo is a large player in the domain of mobile peer-to-peer payments as a subsidiary of Braintree and now PayPal, competing against the likes of CashApp, Zelle, Apple Pay, and Google Wallet.
 
 Venmo has been at the forefront of this domain due to its immense user base and the volume of transactions that are processed daily from these users. In the realm of mobile P2P payment apps, Venmo has set the bar high and set the trend of combining the social media format to its payment system. As mentioned above, the capability to apply newer FinTech methods to the business model will allow Venmo to take its service to the next level and set the trend in the next 5-10 years.
+
+##### Results
+
+In measuring performance, social media firms taunt their number of users to represent their market share. Financial services firms, specifically those that are involved in payments/billing, report the volume of transactions completed within a given time. Since Venmo seems to be the best of both worlds, both figures are important. In Q1 2018 alone, Venmo processed over $12 billion per their earnings statement and recorded over 40 million users in mid-2019.
+
+Compared to its closest competitor, Cash App, Venmo has reported roughly [twice](https://www.vox.com/2018/2/27/17059182/square-cash-app-monthly-active-users-customers-seven-million-december-venmo) the amount of monthly users as CashApp. The interesting thing to note here is that though Venmo is on top, CashApp sits at the number one spot for top free finance apps, while Venmo takes the number three spot. With this in mind, the business impact of Venmo is blatant; the capacity to process billions in payments and sustain an immense userbase has gained Venmo a spot as one of the top players in this domain.
