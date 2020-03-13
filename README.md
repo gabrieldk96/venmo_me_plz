@@ -21,8 +21,22 @@ Venmo is a large player in the domain of mobile peer-to-peer payments as a subsi
 
 Venmo has been at the forefront of this domain due to its immense user base and the volume of transactions that are processed daily from these users. In the realm of mobile P2P payment apps, Venmo has set the bar high and set the trend of combining the social media format to its payment system. As mentioned above, the capability to apply newer FinTech methods to the business model will allow Venmo to take its service to the next level and set the trend in the next 5-10 years.
 
-##### Results
+#### Results
 
 In measuring performance, social media firms taunt their number of users to represent their market share. Financial services firms, specifically those that are involved in payments/billing, report the volume of transactions completed within a given time. Since Venmo seems to be the best of both worlds, both figures are important. In Q1 2018 alone, Venmo processed over $12 billion per their earnings statement and recorded over 40 million users in mid-2019.
 
 Compared to its closest competitor, Cash App, Venmo has reported roughly [twice](https://www.vox.com/2018/2/27/17059182/square-cash-app-monthly-active-users-customers-seven-million-december-venmo) the amount of monthly users as CashApp. The interesting thing to note here is that though Venmo is on top, CashApp sits at the number one spot for top free finance apps, while Venmo takes the number three spot. With this in mind, the business impact of Venmo is blatant; the capacity to process billions in payments and sustain an immense userbase has gained Venmo a spot as one of the top players in this domain.
+
+#### Recommendations
+As mentioned above, Venmo has an outstanding userbase and has set the trend for the way we process mobile payments, but the technology its based on is virtually archaic. Recommendations I would make to Venmo would include adapting the most up-to-date ACH and banking systems as they become available as well as incorporate cryptocurrency/blockchain technology to prepare for the next generation of payments as well as to facilitate international payments.
+
+Implementing these changes would greatly benefit Venmo because it has already gain the trust of millions of monthly users and these technologies will benefit these users in the next coming years as technology progresses and is more widespread. A broader array of services will be offered to cater to cryptocurrency payments, international transations, and overall make the payment systems more efficient. Implementing these changes will help Venmo remain competitive as a large market player for many years to come.
+
+---
+
+## Works Cited
+
+*https://en.wikipedia.org/wiki/Venmo
+*https://www.vox.com/2018/2/27/17059182/square-cash-app-monthly-active-users-customers-seven-million-december-venmo
+*https://www.investopedia.com/articles/personal-finance/010715/venmo-its-business-model-and-competition.asp
+*https://en.wikipedia.org/wiki/Venmo
